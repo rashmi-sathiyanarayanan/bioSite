@@ -87,3 +87,43 @@ div.descriptionone {
     width: 75%;
     padding-top: 10%;
 }
+
+footer {
+    background-color: lightskyblue;
+    width: 100%;
+    bottom: 0;
+    position: relative;
+}
+
+footer a {
+    text-decoration: none;
+    color: black;
+    font-style: italic;
+    float: right;
+    font-family:  ‘Playfair Display’, Verdana, Arial, sans-serif;
+    background-color: lightskyblue;
+    width: 100%;
+    bottom: 0;
+    padding: 10px;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+figure {
+    padding: 4px;
+    margin: auto;
+}
+  
+figcaption {
+    background-color: black;
+    color: white;
+    font-style: italic;
+    padding: 2px;
+    text-align: center;
+}
+
+p a {
+    color: crimson;
+}
