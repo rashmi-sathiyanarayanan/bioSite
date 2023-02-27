@@ -44,7 +44,7 @@ div.pic {
 }
 
 #navbar a {
-    float:left;
+    float:right;
     display: block;
     color: white;
     text-align: center;
@@ -62,6 +62,7 @@ div.content {
     display:flex;
     flex-wrap: nowrap;
     justify-content: space-between;
+    background-color: bisque;
 }
 
 div.pose{
@@ -70,7 +71,7 @@ div.pose{
 }
 
 div.description {
-    text-align: center;
+    text-align: left;
     width: 80%;
     padding-top: 10%;
 }
@@ -86,6 +87,7 @@ div.contentone {
     display:flex;
     flex-wrap: nowrap;
     justify-content: space-between;
+    background-color: bisque;
 }
 
 img.poseone{
@@ -95,7 +97,7 @@ img.poseone{
 }
 
 div.descriptionone {
-    text-align: center;
+    text-align: left;
     width: 75%;
     padding-top: 10%;
 }
